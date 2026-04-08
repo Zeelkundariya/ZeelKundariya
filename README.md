@@ -1,153 +1,191 @@
 <div align="center">
 
-<!-- MAIN NAME -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=1800&pause=600&color=00F7FF&center=true&vCenter=true&width=900&lines=ZEEL+KUNDARIYA"/>
+<!-- PREMIUM HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00F7FF&height=200&section=header&text=Zeel%20Kundariya&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<!-- SUBTITLE ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Agri-Tech+Innovator;Building+Real-World+Projects;Hackathon+Builder"/>
+<!-- TYPING -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Agri-Tech+%7C+FinTech+Builder;Problem+Solver;Always+Learning"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zeelkundariya&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+🚀 Building scalable products solving real-world problems in **Agri-Tech & FinTech**
+
+* 💻 Full-stack developer focused on building scalable applications  
+* 🌱 Currently learning **System Design & Advanced Backend**  
+* 🚀 Passionate about **Agri-Tech & FinTech solutions**  
+* 📊 Solved **1300+ DSA problems**  
+* ⚡ Love building real-world impactful products  
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/zeel-kundariya">
+<img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/ZeelKundariya">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Zeel1304/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🚀 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark"/>
 
 <br/>
 
-<!-- BETTER HERO IMAGE -->
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500"/>
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 
-</div>
+<br/>
 
-<!-- NEON DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,100:000000&height=2"/>
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark"/>
 
----
----
+<br/>
 
-## 🧠 About Me
+### 🧠 Programming & Core
+<img src="https://skillicons.dev/icons?i=cpp,python&theme=dark"/>
 
-💻 Full-Stack Developer focused on **real-world problem solving**  
-🌾 Building **Agri-Tech + FinTech** solutions  
-🏆 Hackathon enthusiast turning ideas into products  
-📈 Solved **1300+ DSA problems**
+<br/>
 
-<div align="center">
- <img src="https://user-images.githubusercontent.com/74038190/212284126-5bff9d0b-8b87-4c5b-bb87-5c1b8b0f2b9f.gif" width="500"/>
+### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,vscode,figma&theme=dark"/>
+
 </div>
 
 ---
 
-## 🛠️ Skills Arsenal
+## 📊 GitHub Stats
 
 <div align="center">
 
-| 🚀 Category | 💻 Tech | 📊 Proficiency | 🏷️ Badge |
-|------------|--------|---------------|---------|
-| Languages | JavaScript | █████████░ 85% | ![](https://img.shields.io/badge/JS-JavaScript-yellow) |
-|  | HTML/CSS | ██████████ 90% | ![](https://img.shields.io/badge/HTML5-orange) |
-|  | Python | ███████░░░ 70% | ![](https://img.shields.io/badge/Python-blue) |
-| Frameworks | React | ██████░░░░ 60% | ![](https://img.shields.io/badge/React-61DAFB) |
-|  | Node.js | ████████░░ 75% | ![](https://img.shields.io/badge/Node.js-green) |
-| Tools | Git | ██████████ 95% | ![](https://img.shields.io/badge/Git-red) |
-|  | LeetCode | 1300+ | ![](https://img.shields.io/badge/LeetCode-orange) |
+<img src="https://github-readme-stats.vercel.app/api?username=Zeelkundariya&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
 
-</div>
+<img src="https://streak-stats.demolab.com?user=Zeelkundariya&theme=github-dark&hide_border=true" height="160"/>
 
-<p align="center"><i>⚡ Growth is trackable. Progress is visible.</i></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeelkundariya&layout=compact&theme=github_dark&hide_border=true" height="160"/>
 
----
-
-## 🧊 3D Contribution Dashboard
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zeelkundariya&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zeelkundariya&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zeelkundariya&theme=tokyonight&utcOffset=5.5"/>
 </div>
 
 ---
 
-## ⚡ Tech Stack
+## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,cpp,python,git,github&theme=dark"/>
-</div>
-
----
-
-## 🚀 Featured Work
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
-</div>
-
-### 🔥 LedgerCore  
-Smart expense tracker with analytics  
-→ Helped users reduce overspending  
-
-### 🌾 Rupiya  
-Agri-tech platform for farmers  
-→ Price prediction + SMS alerts  
-
-### 🧩 AlgoQuest  
-Gamified DSA visualizer (Upcoming)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeelkundariya&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Zeelkundariya&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeelkundariya&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeelkundariya&theme=github-dark" width="95%"/>
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</div>
 
----
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" style="filter: drop-shadow(0 0 4px #39d353);"/>
 
-## ⚡ LeetCode Power
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Zeel1304?theme=dark&font=Orbitron&ext=contest"/>
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/zeel-kundariya">
-  <img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-<a href="https://x.com/ZeelKundariya">
-  <img src="https://img.shields.io/badge/X-00f7ff?style=for-the-badge&logo=twitter&logoColor=black"/>
-</a>
-
-<a href="https://leetcode.com/u/Zeel1304/">
-  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<p align="center">Consistency is my superpower 🟢</p>
 
 </div>
 
 ---
 
-## 💀 Philosophy
+<!-- MICRO DIVIDER -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39d353,100:0e4429&height=2" width="40%"/>
+</div>
+
+---
+
+## ⚡ Skills
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Build.+Break.+Learn.+Repeat.;Code.+Fail.+Improve.+Repeat."/>
+
+### 🚀 Core Strengths
+<img src="https://img.shields.io/badge/JavaScript-85%25-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-70%25-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node.js-75%25-green?style=for-the-badge"/>
+
+<br/><br/>
+
+### 🧠 Problem Solving
+<img src="https://img.shields.io/badge/DSA-90%25-orange?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">💪 Solved 1300+ problems | Strong in DSA & problem solving</p>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Zeel1304?theme=dark&ext=contest"/>
+</p>
+
+---
+
+## 🟩 GitHub Contribution Overview
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2ea043,100:0e4429&height=2" width="80%"/>
+
+<br/>
+
+<img src="https://ghchart.rshah.org/2ea043/Zeelkundariya" width="92%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Zeelkundariya&theme=github-dark&hide_border=true" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zeelkundariya&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="150"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e4429,100:2ea043&height=2" width="60%"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Build!
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Open+for+Collaborations;Let's+Build+Something+Amazing;Always+Learning+%26+Growing"/>
+
+<br/>
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="120"/>
+
+<p>I'm always open to collaborations and opportunities 🚀</p>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:000000&height=140&section=footer"/>
+
+<p>⚡ Always building. Always improving.</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=3000&pause=1200&color=AAAAAA&center=true&vCenter=true&width=500&lines=Code.+Learn.+Improve.+Repeat."/>
+
 </div>

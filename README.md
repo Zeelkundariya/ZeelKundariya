@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00F7FF&height=200&section=header&text=Zeel%20Kundariya&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <!-- TYPING -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Agri-Tech+%7C+FinTech+Builder;Problem+Solver;Always+Learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Agri-Tech+%7C+FinTech+%7C+E-Mobility+Builder;Problem+Solver;Always+Learning"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zeelkundariya&label=Profile%20views&color=0e75b6&style=flat" />
@@ -16,12 +16,13 @@
 
 ## 👨‍💻 About Me
 
-🚀 Building scalable products solving real-world problems in **Agri-Tech & FinTech**
+🚀 Building scalable products solving real-world problems in **Agri-Tech, FinTech & E-Mobility**
 
 * 💻 Full-stack developer focused on building scalable applications  
 * 🌱 Currently learning **System Design & Advanced Backend**  
-* 🚀 Passionate about **Agri-Tech & FinTech solutions**  
-* 📊 Solved **1300+ DSA problems**  
+* ⚡ Exploring solutions in **E-Mobility systems & smart infrastructure**  
+* 🚀 Passionate about **Agri-Tech, FinTech & sustainable mobility solutions**  
+* 📊 Solved **130+ DSA problems**  
 * ⚡ Love building real-world impactful products  
 
 ---
@@ -77,11 +78,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zeelkundariya&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Zeelkundariya&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="160"/>
 
-<img src="https://streak-stats.demolab.com?user=Zeelkundariya&theme=github-dark&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com?user=Zeelkundariya&theme=github-dark&hide_border=true&cache_seconds=1800" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeelkundariya&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeelkundariya&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" height="160"/>
 
 </div>
 
@@ -134,7 +135,7 @@
 
 ## 🧠 LeetCode Stats
 
-<p align="center">💪 Solved 1300+ problems | Strong in DSA & problem solving</p>
+<p align="center">💪 Solved 130+ problems | Strong in DSA & problem solving</p>
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/Zeel1304?theme=dark&ext=contest"/>

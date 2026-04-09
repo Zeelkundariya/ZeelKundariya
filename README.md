@@ -155,9 +155,9 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Zeelkundariya&theme=github-dark&hide_border=true" height="150"/>
+<img src="https://streak-stats.demolab.com?user=Zeelkundariya&theme=github-dark&hide_border=true&cache_seconds=600" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zeelkundariya&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Zeelkundariya&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&cache_seconds=600" height="150"/>
 
 <br/>
 

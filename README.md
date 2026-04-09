@@ -78,11 +78,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zeelkundariya&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Zeelkundariya&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=100" height="160"/>
 
-<img src="https://streak-stats.demolab.com?user=Zeelkundariya&theme=github-dark&hide_border=true&cache_seconds=1800" height="160"/>
+<img src="https://streak-stats.demolab.com?user=Zeelkundariya&theme=github-dark&hide_border=true&cache_seconds=100" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeelkundariya&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeelkundariya&layout=compact&theme=github_dark&hide_border=true&cache_seconds=100" height="160"/>
 
 </div>
 
